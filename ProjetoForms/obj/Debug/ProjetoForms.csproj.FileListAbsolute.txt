@@ -1,0 +1,11 @@
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\bin\Debug\ProjetoForms.exe.config
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\bin\Debug\ProjetoForms.exe
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\bin\Debug\ProjetoForms.pdb
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.csproj.AssemblyReference.cache
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.Form1.resources
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.Properties.Resources.resources
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.csproj.GenerateResource.cache
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.csproj.CoreCompileInputs.cache
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.exe
+C:\Users\marcel.rmpenha\source\repos\ProjetoForms\ProjetoForms\obj\Debug\ProjetoForms.pdb
